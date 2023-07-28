@@ -1,11 +1,11 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
 <h1 align="center">Hi 👋, I'm Manas Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt = "Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasraj111&label=Profile%20views&color=0e75b6&style=flat" alt="manasraj111" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently studying **Computer Science**
 
 - 💬 Ask me about **HTML,CSS,JS,DSA,Java**
 
